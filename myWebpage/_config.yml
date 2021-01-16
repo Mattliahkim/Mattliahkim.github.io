@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,21 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+#I have acquired multiple soft skills, such as leadership and communication, through campus involvement I’ve taken part in which can be seen below.
+#I have also gained hard technical skills through my classes and personal projects, such as git, React and C#.
+#I hope to bring all of my skills and experience to the company’s position I fit best in and look forward to making a positive impact in the industry.
+title: Matthew Liahkim's Website
+email: mattliahkim@gmail.com
+url: "https://mattliahkim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: Lightstripe123
+github_username:  mattliahkim
+linkedin_username: matthew-liahkim-8a9ba8180
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello, my name is Matthew Liahkim, and I am a junior at Stony Brook University pursuing a B.S. in computer science.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -43,6 +45,10 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 # exclude:
+#   - IMG_5749 3.JPG
+#   - msft.svg
+#   - _nuxt/
+#   - asses/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
