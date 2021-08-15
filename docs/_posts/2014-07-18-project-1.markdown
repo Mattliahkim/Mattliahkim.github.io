@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cake.png
+img: cabin.png
 alt: image-alt
 project-date: July 2014
 client: Professor
 category: Web Development
-description: Three-Tier Web Application using a React Frontend, an Express Web Server Backend, connected to a MySQL database. Authenticates users by checking their credentials against a database, while determining their access to databases by their credentials in terms of CRUD actions on databases they have access to. 
+description: Three-Tier Web Application using a React Frontend, an Express Web Server Backend, connected to a MySQL database. Authenticates users by checking their credentials against a database, while determining their access to databases by their credentials in terms of CRUD actions on databases they have access to.
 ---
