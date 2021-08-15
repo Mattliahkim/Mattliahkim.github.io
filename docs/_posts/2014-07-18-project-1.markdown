@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cake.png
+img: circus.png
 alt: image-alt
 project-date: July 2014
-client: Personal
+client: Professor
 category: Web Development
 description: Three-Tier Web Application using a React Frontend, an Express Web
 Server Backend, connected to a MySQL database.

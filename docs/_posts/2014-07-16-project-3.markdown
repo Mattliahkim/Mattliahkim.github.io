@@ -1,12 +1,11 @@
 ---
 layout: default
-modal-id: 1
-date: 2014-07-18
-img: circus.png
+modal-id: 3
+date: 2014-07-17
+img: cake.png
 alt: image-alt
-project-date: July 2014
+project-date: April 2014
 client: Personal
-category: Web Development
-description: Three-Tier Web Application using a React Frontend, an Express Web
-Server Backend, connected to a MySQL database.
+category: Mobile Development
+description: An Android Application that used a local SQLite database to store data persistently and offline. The application was able to perform CRUD applications and hold data about how much each person owed me and can be viewed with a scrolling list and edited with buttons.
 ---
