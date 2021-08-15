@@ -39,14 +39,15 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: github
+    url: https://github.com/Mattliahkim
   - title: twitter
     url: https://twitter.com/Lightstripe123
   - title: facebook
     url: https://www.facebook.com/profile.php?id=100008444417022
   - title: bitbucket
     url: https://bitbucket.org/dashboard/repositories
-  - title: github
-    url: https://github.com/Mattliahkim
+
 
 # Postal address (add as many lines as necessary)
 address:
