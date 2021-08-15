@@ -7,6 +7,5 @@ alt: image-alt
 project-date: July 2014
 client: Professor
 category: Web Development
-description: Three-Tier Web Application using a React Frontend, an Express Web
-Server Backend, connected to a MySQL database.
+description: Three-Tier Web Application using a React Frontend, an Express Web Server Backend, connected to a MySQL database.
 ---
